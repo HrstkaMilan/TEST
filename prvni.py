@@ -1,1 +1,2 @@
 # zkouška
+print("Hello world!")
