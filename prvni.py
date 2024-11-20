@@ -1,2 +1,0 @@
-# zkouška
-print("Hello world!")
